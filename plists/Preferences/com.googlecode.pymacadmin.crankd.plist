@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>SystemConfiguration</key>
+    <dict>
+        <key>State:/Network/Global/IPv4</key>
+        <dict>
+            <!--<key>command</key>
+            <string>/usr/bin/afplay /Users/BK/Documents/retro-fi/resources/dial-up.mp3</string>-->
+            <key>command</key>
+            <string>/bin/echo "IPv4 state change"</string>
+        </dict>
+    </dict>
+</dict>
+</plist>
